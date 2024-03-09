@@ -1,0 +1,4 @@
+data
+test/**/*.js
+.eslintrc.json
+node_modules/
